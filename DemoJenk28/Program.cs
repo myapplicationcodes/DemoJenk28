@@ -6,7 +6,7 @@ namespace DemoJenk28
     {
         public static void Main()
         {
-            Console.WriteLine("Hello World by Jenkins");
+            Console.WriteLine("Hello World by Jenkins build peroidically");
         }
     }
 }
